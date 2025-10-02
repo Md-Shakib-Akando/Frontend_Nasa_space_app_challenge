@@ -142,7 +142,7 @@ const About = () => {
 
                         {/* NASA */}
                         <div className={`${sectionStyle} p-6 hover:shadow-xl transition-shadow duration-300`}>
-                            <h3 className="text-2xl font-bold text-[#4FB3D4] mb-2">NASA Ocean Data</h3>
+                            <h3 className="text-2xl font-bold text-[#4FB3D4] mb-2">NASA Ocean Color</h3>
                             <p className="text-gray-300 mb-3 text-justify">
                                 Used to analyze chlorophyll, phytoplankton, and ocean temperature for predicting shark habitats.
                             </p>
